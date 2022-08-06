@@ -13,10 +13,7 @@
  </ul>
 </div>
 <ol>
- <li><h4>Empreendedorismo</h4></li>
- <li><h4>Inovação</h4></li>
- <li><h4>Administração</h4></li>
- <li><h4>Investimento</h4></li>
+ <li><h4>.,.,.,.,.</h4></li>
 </ol>
 <hr>
 
